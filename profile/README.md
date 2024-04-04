@@ -25,9 +25,9 @@ We envision a future where technology seamlessly integrates with daily life, mak
 
 ## Get In Touch
 
-📧 **Email**: [thealphaones.work@gmail.com](mailto:contact@thealphaones.com)
+📧 **Email**: [thealphaones.work@gmail.com](mailto:thealphaones.work@gmail.com)
 
-🌐 **Website**: [www.thealphaones.com](http://www.thealphaones.vercel.app)
+🌐 **Website**: [thealphaones.vercel.app](http://thealphaones.vercel.app)
 
 🐦 **Twitter**: [@TheAlphaOnesDev](https://twitter.com/TheAlphaOnesDev)
 
