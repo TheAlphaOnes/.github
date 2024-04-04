@@ -1,6 +1,3 @@
-Certainly! Below is a sample GitHub homepage content for TheAlphaOnes Development Group:
-
----
 
 # Welcome to TheAlphaOnes Development Group 👋
 
