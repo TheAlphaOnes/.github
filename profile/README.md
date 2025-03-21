@@ -28,4 +28,4 @@ We believe in **decentralization, seamless UX, and empowering developers**. Our 
 
 📧 **Email**: [thealphaones.work@gmail.com](mailto:thealphaones.work@gmail.com)  
 🌐 **Website**: [thealphaones.com](http://thealphaones.com)  
-🐦 **Twitter**: [@TheAlphaOnesDev](https://twitter.com/TheNormVg)  
+🐦 **Twitter**: [@TheNormVg](https://twitter.com/TheNormVg)  
