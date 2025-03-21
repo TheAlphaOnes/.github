@@ -2,7 +2,7 @@
 
 ## Who We Are  
 
-We are **TheAlphaOnes**, a team of developers and creators driven by a passion for **innovation, decentralization, and open-source technology**. Founded by **Vishnu Gupta** ([@TheNormVg](https://github.com/TheNormVg)) and **Akshat Khare**, we specialize in **building powerful tools for developers and creators**.  
+We are **TheAlphaOnes**, a team of developers and creators driven by a passion for **innovation, decentralization, and open-source technology**. Founded by **Vishnu Gupta** ([@TheNormVg](https://github.com/TheNormVg)), we specialize in **building powerful tools for developers and creators**.  
 
 ## What We Build  
 
