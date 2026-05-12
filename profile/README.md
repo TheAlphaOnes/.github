@@ -37,21 +37,6 @@ We prefer:
 
 ---
 
-## Stack
-
-Common technologies used across projects:
-
-- Nuxt
-- Vue
-- TypeScript
-- PostgreSQL
-- Drizzle ORM
-- TailwindCSS
-- Supabase
-- Node.js
-
----
-
 ## Links
 
 - Website: https://taohq.org
